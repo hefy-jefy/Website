@@ -1,0 +1,11 @@
+{
+  "name": "y",
+  "version": "y",
+  "description": "y",
+  "main": "server.js",
+  "author": "Lizzie Shipton",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
